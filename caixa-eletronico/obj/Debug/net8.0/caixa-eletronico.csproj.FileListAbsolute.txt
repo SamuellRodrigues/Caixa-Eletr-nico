@@ -1,1 +1,15 @@
 C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\bin\Debug\net8.0\caixa-eletronico.exe
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\bin\Debug\net8.0\caixa-eletronico.deps.json
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\bin\Debug\net8.0\caixa-eletronico.runtimeconfig.json
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\bin\Debug\net8.0\caixa-eletronico.dll
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\bin\Debug\net8.0\caixa-eletronico.pdb
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.AssemblyInfoInputs.cache
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.AssemblyInfo.cs
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.csproj.CoreCompileInputs.cache
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.sourcelink.json
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.dll
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\refint\caixa-eletronico.dll
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.pdb
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\caixa-eletronico.genruntimeconfig.cache
+C:\Users\bauru\Desktop\Caixa-Eletronico\caixa-eletronico\obj\Debug\net8.0\ref\caixa-eletronico.dll
